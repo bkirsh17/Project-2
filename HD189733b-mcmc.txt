@@ -1,0 +1,55 @@
+\ 
+\ Median Values and 68% Confidence Interval for EXOFAST Calculation
+\ 
+\ Title: HD189733b-mcmc
+\ Date : Mon Feb 20 10:41:47 2023
+\ Fit Type: MCMC
+\ 
+|symbol  | parameter                               | units                   | value           | upper_error     | lower_error     |
+|char    | char                                    | char                    | double          | double          | double          |
+ M*        Stellar Mass                              Msun                              0.818751          0.039715          0.037208 
+ R*        Stellar Radius                            Rsun                              0.768012          0.026010          0.024528 
+ L*        Stellar Luminosity                        Lsun                              0.345353          0.024725          0.022209 
+ rho*      Stellar Density                           cgs                               2.549138          0.215228          0.196688 
+ logg*     Stellar Surface Gravity                   cgs                               4.580326          0.023502          0.023135 
+ Teff      Effective Temperature                     K                              5052.809519         15.995268         15.919788 
+ FeH       Metallicity                               none                              0.010281          0.079117          0.080691 
+ e         Eccentricity                              none                              0.038853          0.019407          0.020052 
+ omega     Argument of Periastron                    degrees                          49.340385         26.062300         34.771579 
+ P         Period                                    days                              2.218666          0.000059          0.000058 
+ a         Semi-Major Axis                           AU                                0.031151          0.000495          0.000479 
+ Mp        Planet Mass                               Mj                                1.129965          0.051255          0.048800 
+ Rp        Planet Radius                             Rj                                1.174964          0.045549          0.045573 
+ rhop      Planet Density                            cgs                               0.864851          0.112317          0.095904 
+ loggp     Planet Surface Gravity                    none                              3.307447          0.037118          0.036261 
+ Teq       Equilibrium Temperature                   K                              1209.794113         16.789709         16.646062 
+ Theta     Safronov Number                           none                              0.073208          0.004373          0.004232 
+ Fave      Incident Flux                             10^9 ergs s^-1 cm^-2              0.485122          0.026771          0.025872 
+ ecosw     e cosine omega                            none                              0.021936          0.015884          0.015978 
+ esinw     e sine omega                              none                              0.025836          0.022555          0.022060 
+ TP        Time of Periastron                        BJD                         2453988.572494          0.149334          0.210831 
+ K         RV Semi-Amplitude                         m/s                             200.799917          6.567626          6.694715 
+ Mpsini    Minimum Mass                              Mj                                1.126923          0.050968          0.048796 
+ Mp/M*     Mass Ratio                                none                              0.001319          0.000049          0.000050 
+ gamma     Systemic Velocity                         m/s                              -7.294809          3.271558          3.303855 
+ TC        Time of Transit                           BJD                         2453988.803516          0.000126          0.000128 
+ Rp/R*     Radius of Planet in Stellar Radii         none                              0.157287          0.001577          0.001947 
+ a/R*      Semi-Major Axis in Stellar Radii          none                              8.722268          0.239024          0.230304 
+ u1        Linear Limb-Darkening Coeff               none                              0.754086          0.040703          0.039750 
+ u2        Quadratic Limb-Darkening Coeff            none                             -0.068961          0.050291          0.047578 
+ i         Inclination                               degrees                          85.743495          0.287408          0.276059 
+ b         Impact Parameter                          none                              0.630572          0.020299          0.025769 
+ delta     Transit Depth                             none                              0.024739          0.000499          0.000609 
+ TFWHM     FWHM Duration                             days                              0.060604          0.000853          0.000759 
+ tau       Ingress/Egress Duration                   days                              0.016331          0.000847          0.000912 
+ T14       Total Duration                            days                              0.076938          0.000674          0.000657 
+ PT        A Priori Non-Grazing Transit Prob         none                              0.099236          0.004802          0.004349 
+ PTG       A Priori Transit Prob                     none                              0.136254          0.006698          0.006126 
+ F0        Baseline Flux                             none                              1.000035          0.000086          0.000085 
+ TS        Time of Eclipse                           BJD                         2453987.725190          0.022475          0.022613 
+ bS        Secondary Impact Parameter                none                              0.662452          0.036869          0.036345 
+ TSFWHM    Secondary FWHM Duration                   days                              0.060971          0.001316          0.001082 
+ tauS      Secondary Ingress/Egress Duration         days                              0.017873          0.001970          0.001603 
+ TS14      Total Eclipse Duration                    days                              0.079149          0.001776          0.001861 
+ PS        A Priori Non-Grazing Eclipse Prob         none                              0.094287          0.001515          0.001607 
+ PSG       A Priori Eclipse Prob                     none                              0.129466          0.002406          0.002574 
